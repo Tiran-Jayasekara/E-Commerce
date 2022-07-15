@@ -52,7 +52,7 @@
         <div class="row">
           <div class="col-md-6">
             <p class="mb-0">
-              <span class="mr-3"><strong>Phone:</strong> <a href="tel://#">0712342340</a></span>
+              <span class="mr-3"><strong>Phone:</strong> <a href="tel://#">071234d2340</a></span>
               <span><strong>Email:</strong> <a href="#">cyloneantiques@acorp.com</a></span>
             </p>
           </div>
